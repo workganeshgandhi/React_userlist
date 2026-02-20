@@ -1,2 +1,4 @@
-# React_userlist
-User list in React
+# React + Vite
+npm install
+npm install antd
+npm run dev
